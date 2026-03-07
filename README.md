@@ -3,30 +3,22 @@
 ## Qualifications
 
 - Fairly fluent in Python
-- Comfortable in Bash terminal
-- Networking enthusiast
-- Unciv modder
-- Amateur white-hat hacker (a.k.a. Messing Around With VMs)
+- Know the basics of HTML
+- Decently experienced Unciv modder
 
 ## Current Projects
 
-### Linux From Scratch
+- Linux From Scratch
+- ARM64 Assembly
+- Various Unciv modding
 
-**What** Building a Linux system by compiling everything myself
+## Favorite Open Source Projects
 
-**Why** For fun and to learn what makes Linux tick
-
-### Unciv Modding
-
-**What** Making mods for Unciv,  mostly small tweaks
-
-**Why** Because I want Unciv to do something-- maybe someone else does too
-
-### Hacking Training
-
-**What** Trying to break into intentionally vulnerable VMs with Kali Linux
-
-**Why** To learn the basics of white-hat hacking, out of interest and because it's fun
+- [Unciv](https://github.com/yairm210/Unciv)
+- [Endless Sky](https://github.com/endless-sky/endless-sky)
+- [Trelby](https://github.com/trelby/trelby)
+- [Pi-Hole](https://github.com/pi-hole/pi-hole)
+- [Pi-Apps](https://github.com/Botspot/pi-apps)
 
 ## Other Interests
 
