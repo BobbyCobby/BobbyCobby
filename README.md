@@ -1,27 +1,9 @@
-# About Me
+# Hi!
 
-## Qualifications
+I'm an amateur Python coder and Unciv modder, and I also love music, mathematics, and all things Tolkien.
 
-- Fairly fluent in Python
-- Know the basics of HTML
-- Decently experienced Unciv modder
+My main computer projects are not public at the moment, but see my pins below for my most interesting public repositories (in my opinion).
 
-## Current Projects
+I [also enjoy programming PRs in languages I don't actually know](https://github.com/yairm210/Unciv/pull/15388). If you're not just randomly browsing GitHub and want to work on a project together, ping me!
 
-- Linux From Scratch
-- ARM64 Assembly
-- Various Unciv modding
-
-## Favorite Open Source Projects
-
-- [Unciv](https://github.com/yairm210/Unciv)
-- [Endless Sky](https://github.com/endless-sky/endless-sky)
-- [Trelby](https://github.com/trelby/trelby)
-- [Pi-Hole](https://github.com/pi-hole/pi-hole)
-- [Pi-Apps](https://github.com/Botspot/pi-apps)
-
-## Other Interests
-
-- Reading
-- Music
-- Soccer
+*\~ BobbyCobby*
